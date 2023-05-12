@@ -430,4 +430,10 @@ form {
        margin: 31px 0 0 17px;
 
     }
+    .h11 {
+        position: absolute;
+        margin: 100px 0 0 0px;
+      text-align: center;
+      width: 100%;
+    }
 }
