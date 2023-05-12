@@ -1,0 +1,433 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #FED845;
+
+
+}
+
+.wrapper {
+    width: 1400px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.countenr {
+    width: 1400px;
+    height: auto;
+    margin: 0 auto;
+}
+
+.poko {
+    width: 500px;
+    height: 250px;
+    margin: 0 auto;
+}
+
+.poko img {
+    width: 500px;
+    height: 250px;
+}
+
+.input {
+    width: 250px;
+    height: 51px;
+    background: #FFFFFF;
+    border: 1.5px solid #000000;
+    border-radius: 15px;
+
+}
+
+.select {
+    width: 200px;
+    height: 50px;
+    background: #FFFFFF;
+    border: 1.5px solid #000000;
+    border-radius: 15px;
+    cursor: pointer;
+
+}
+
+.select1 {
+    width: 140px;
+    height: 50px;
+    background: #FFFFFF;
+    border: 1.5px solid #000000;
+    border-radius: 15px;
+    cursor: pointer;
+    margin-left: 15px;
+
+}
+
+.option {
+    width: 200px;
+    height: 50px;
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    font-size: 15px;
+    cursor: pointer;
+
+}
+
+.option1 {
+    display: none;
+
+}
+
+input {
+
+    position: absolute;
+    margin-left: 20px;
+}
+
+.ser {
+    width: 500px;
+    margin-left: 240px;
+    float: left;
+
+
+}
+
+.btn {
+    font-size: 20px;
+    width: 49px;
+    height: 49px;
+    border-radius: 15px;
+    border: none;
+    cursor: pointer;
+    border-bottom-left-radius: 0;
+    border-top-left-radius: 0;
+    background-color: #FED845;
+    color: #4a37f9;
+    position: relative;
+}
+
+
+
+.batt {
+    position: relative;
+    width: 49px;
+    height: 45px;
+    margin: 1px 0 0 220.5px;
+
+}
+
+.poko1,
+.poko2,
+.poko3,
+.poko4,
+.poko5,
+.poko6,
+.poko7,
+.poko8,
+.poko9 {
+    width: 310px;
+    height: 430px;
+    background-color: #FFFFFF;
+    float: left;
+    margin: 20px 0 20px 55px;
+    border: 2px solid #000000;
+    border-radius: 20px;
+}
+
+
+
+.poko1,
+.poko4,
+.poko7 {
+    margin-left: 180px;
+}
+
+body .pokomen .menu-itme {
+    width: 310px;
+    height: 430px;
+    background-color: #FFFFFF;
+    float: left;
+    margin: 20px 0 0px 55px;
+    border: 2px solid #000000;
+    border-radius: 20px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+
+}
+
+body .pokomen .menu-itme img {
+    width: 100%;
+    height: 65%;
+    float: left;
+    border-radius: 18px;
+    border-bottom: none;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+
+}
+
+
+.poko1 img {
+    width: 100%;
+    height: 65%;
+    border-radius: 18px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+
+}
+
+.poko2 img {
+    width: 100%;
+    height: 65%;
+    border-radius: 18px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+
+}
+
+.poko3 img {
+    width: 100%;
+    height: 65%;
+    border-radius: 18px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+
+}
+
+.poko4 img {
+    width: 100%;
+    height: 65%;
+    border-radius: 18px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+
+}
+
+.poko5 img {
+    width: 100%;
+    height: 65%;
+    border-radius: 18px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+
+}
+
+.poko6 img {
+    width: 100%;
+    height: 65%;
+    border-radius: 18px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+
+}
+
+.poko7 img {
+    width: 100%;
+    height: 65%;
+    border-radius: 18px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+
+}
+
+.poko8 img {
+    width: 100%;
+    height: 65%;
+    border-radius: 18px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+
+}
+
+.poko9 img {
+    width: 100%;
+    height: 65%;
+    border-radius: 18px;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+
+
+}
+
+.buton {
+    position: absolute;
+    top: 300px;
+    opacity: -1;
+}
+
+.buton1 {
+    position: absolute;
+    top: 300px;
+    opacity: -1;
+}
+
+.buton2 {
+    position: absolute;
+    top: 300px;
+    opacity: -1;
+}
+
+body .pokomen .counten {
+    width: 1100px;
+    margin: 0 auto 0 125px;
+
+}
+
+
+
+
+.h44 {
+    margin: 7px 0;
+}
+
+input {
+    padding-left: 50px;
+    font-size: 17px;
+}
+
+.h11 {
+    position: absolute;
+    margin: 100px 0 0 500px;
+
+}
+
+form {
+    position: absolute;
+    margin: -50px 0 0 200px;
+}
+
+
+@media screen and (max-width:768px) {
+    .countenr {
+        width: 100%;
+
+    }
+
+    .poko img {
+        width: 90%;
+
+    }
+
+    .poko {
+        width: 100%;
+    }
+
+    .wrapper {
+        width: 100%;
+        height: auto;
+        margin: 0 auto;
+    }
+
+    .select {
+        display: none;
+    }
+
+    button {
+        display: none;
+    }
+
+    .poko1,
+    .poko2,
+    .poko3,
+    .poko4,
+    .poko5,
+    .poko6,
+    .poko7,
+    .poko8,
+    .poko9 {
+        width: 80%;
+        height: 430px;
+        background-color: #FFFFFF;
+        float: none;
+
+        margin: 20px 0 20px 20px;
+        border: 2px solid #000000;
+        border-radius: 20px;
+    }
+
+
+
+    .poko1,
+    .poko4,
+    .poko7 {
+        margin-left: 20px;
+    }
+
+    body .pokomen .menu-itme {
+        width: 80%;
+        height: 430px;
+        background-color: #FFFFFF;
+        float: none;
+        margin: 20px 0 0px 0;
+        border: 2px solid #000000;
+        border-radius: 20px;
+        box-sizing: border-box;
+        margin-bottom: 20px;
+
+    }
+
+    body .pokomen .menu-itme img {
+        width: 100%;
+        height: 65%;
+        float: none;
+        border-radius: 18px;
+        border-bottom: none;
+        border-bottom-left-radius: 0;
+        border-bottom-right-radius: 0;
+
+    }
+
+    .counten {
+        width: 100px;
+        height: auto;
+        margin: 0 auto;
+        margin: 0px;
+
+
+
+    }
+
+    .pokomen {
+        margin-top: 70px;
+    }
+
+    body .pokomen .menu-itme {
+        width: 90%;
+        height: 430px;
+        background-color: #FFFFFF;
+        float: none;
+        margin: 20px 0 0px 0px;
+
+
+    }
+
+    .input {
+        width: 90%;
+        position: absolute;
+        margin: 30px 0 0 45px;
+    }
+
+    .ser {
+        width: 90%;
+        margin-left: 0;
+        /* float: left; */
+
+
+    }
+
+    form {
+        margin: -50px 0 0 0px;
+    }
+
+    body .pokomen .counten {
+        width: 90%;
+        margin: 0px auto 0 20px;
+
+    }
+
+    .btn {
+        display: block;
+       margin: 31px 0 0 17px;
+
+    }
+}
