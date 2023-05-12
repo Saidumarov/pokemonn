@@ -245,7 +245,6 @@ btnn2.addEventListener("click" , () =>{
 })
 
 // slect 
-tan.value = ""
 tan.addEventListener("click", () => {
     let ui = ""
     const inputvalu = tan.value
